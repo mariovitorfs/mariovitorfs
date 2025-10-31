@@ -1,14 +1,14 @@
 # 👨‍💻 Mário Vitor
 
-**Engenheiro de Software | Automação + IA | Vibe Coder**
+**Engenheiro de Software | Automação + IA**
 
-Sou **Mário Vitor**, desenvolvedor e estudante de **Engenharia de Software (EAD)**, determinado a me tornar o **melhor engenheiro de software do mundo**.  
+Sou **Mário Vitor**, desenvolvedor e estudante de **Engenharia de Software**.  
 Atuo na interseção entre **automação, inteligência artificial e produtividade**, sempre buscando elevar o padrão do desenvolvimento moderno.
 
 Acredito que o código vai além da técnica — é uma extensão da mente criativa e estratégica do desenvolvedor.  
 É isso que me move: transformar ideias em sistemas inteligentes, eficientes e com propósito.
 
-📍 **Base:** Minas Gerais, Brasil  
+📍 **Localização:** Nova serrana - Minas Gerais, Brasil  
 🚀 **Foco atual:** Automação de e-commerce • Inteligência Artificial aplicada ao desenvolvimento  
 🧭 **Missão:** Criar soluções inteligentes que otimizem o trabalho de desenvolvedores e empresas.
 
@@ -46,8 +46,8 @@ Acredito que o código vai além da técnica — é uma extensão da mente criat
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariovitorfs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariovitorfs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariovitorfs)
 
