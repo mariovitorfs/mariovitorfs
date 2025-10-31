@@ -1,7 +1,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
 ###
 # 👨‍💻 Mário Vitor
 
@@ -61,9 +60,3 @@ Acredito que o código vai além da técnica — é uma extensão da mente criat
 🧭 *“O código é apenas o meio. A verdadeira engenharia está na mente.”*
 
 ---
-
-###
-
-<img src="https://raw.githubusercontent.com/mariovitor234/mariovitor234/output/snake.svg" alt="Snake animation" />
-
-###
