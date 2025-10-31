@@ -7,7 +7,7 @@
 
 **Engenheiro de Software | Automação + IA**
 
-Sou **Mário Vitor**, desenvolvedor e estudante de **Engenharia de Software**.  
+Estudante de **Engenharia de Software**.  
 Atuo na interseção entre **automação, inteligência artificial e produtividade**, sempre buscando elevar o padrão do desenvolvimento moderno.
 
 Acredito que o código vai além da técnica — é uma extensão da mente criativa e estratégica do desenvolvedor.  
