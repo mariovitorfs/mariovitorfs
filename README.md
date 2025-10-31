@@ -53,13 +53,17 @@ Acredito que o código vai além da técnica — é uma extensão da mente criat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariovitorfs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariovitorfs)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/mariovitorfs)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariovitorfs)
 
 ---
 
 🧭 *“O código é apenas o meio. A verdadeira engenharia está na mente.”*
 
+---
+
 ###
+
 <img src="https://raw.githubusercontent.com/mariovitor234/mariovitor234/output/snake.svg" alt="Snake animation" />
+
 ###
