@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
 # 👨‍💻 Mário Vitor
 
 **Engenheiro de Software | Automação + IA**
@@ -39,8 +44,8 @@ Acredito que o código vai além da técnica — é uma extensão da mente criat
 
 ### 📊 Estatísticas do GitHub
 
-![Mário Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=mariovitorfs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovitorfs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Mário Vitor GitHub status](https://github-readme-stats.vercel.app/api?username=mariovitorfs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+![Técnologias utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovitorfs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
 ---
 
@@ -54,3 +59,7 @@ Acredito que o código vai além da técnica — é uma extensão da mente criat
 ---
 
 🧭 *“O código é apenas o meio. A verdadeira engenharia está na mente.”*
+
+###
+<img src="https://raw.githubusercontent.com/mariovitor234/mariovitor234/output/snake.svg" alt="Snake animation" />
+###
