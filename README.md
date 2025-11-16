@@ -33,10 +33,9 @@ Acredito que o código vai além da técnica, é uma extensão da mente criativa
 
 ---
 
-### 🧩 Projetos em Destaque
+### 🧩 Projetos
 
-- 🧠 **NeuroCart.js** — rastreamento comportamental com IA para e-commerce inteligente.  
-- 🦷 **FlowDental** — automação de comunicação e gestão para clínicas odontológicas (via n8n).  
+- 🦷 **IA Dental** — Saas de automação de comunicação e gestão para clínicas odontológicas (via n8n).  
 - 🧱 **README Builder** — site que gera READMEs personalizados e bonitos para GitHub.  
 
 ---
