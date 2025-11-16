@@ -14,7 +14,7 @@ Acredito que o código vai além da técnica, é uma extensão da mente criativa
 É isso que me move: transformar ideias em sistemas inteligentes, eficientes e com propósito.
 
 📍 **Localização:** Nova serrana - Minas Gerais, Brasil  
-🚀 **Foco atual:** Automação de e-commerce • Inteligência Artificial aplicada ao desenvolvimento  
+🚀 **Foco atual:** Fullstack JS • Projetos de Automação • IA aplicada ao desenvolvimento
 🧭 **Missão:** Criar soluções inteligentes que otimizem o trabalho de desenvolvedores e empresas.
 
 ---
