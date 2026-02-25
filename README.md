@@ -45,7 +45,14 @@ Acredito que o código vai além da técnica, é uma extensão da mente criativa
 ![Mário Vitor GitHub status](https://github-readme-stats.vercel.app/api?username=mariovitorfs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
 ![Técnologias utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovitorfs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
----
+
+<hr>
+
+<div width="100%" display="flex" align="center">
+  <img src='https://www.cometafiber.com.br/assets/img/hero-img.gif' width='350' align="center"> 
+</div>
+
+<hr>
 
 ### 🌐 Conecte-se Comigo
 
