@@ -54,6 +54,12 @@ Acredito que o código vai além da técnica, é uma extensão da mente criativa
 
 <hr>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariovitorfs.mariovitorfs&left_text=Visitantes"  />
+</div>
+
+###
+
 ### 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariovitorfs)
@@ -66,3 +72,4 @@ Acredito que o código vai além da técnica, é uma extensão da mente criativa
 🧭 *“O código é apenas o meio. A verdadeira engenharia está na mente.”*
 
 ---
+
