@@ -3,59 +3,85 @@
 </div>
 
 ###
-# 👨‍💻 Mário Vitor
 
-**Engenheiro de Software | Automação + IA**
+# 👨‍💻 Mário Vitor  
 
-Estudante de **Engenharia de Software**.  
-Atuo na interseção entre **automação, inteligência artificial e produtividade**, sempre buscando elevar o padrão do desenvolvimento moderno.
+**Desenvolvedor Full Stack em formação | React + Java/Spring Boot**
 
-Acredito que o código vai além da técnica, é uma extensão da mente criativa e estratégica do desenvolvedor.  
-É isso que me move: transformar ideias em sistemas inteligentes, eficientes e com propósito.
+Estudante de Engenharia de Software focado no desenvolvimento de aplicações web completas (frontend + backend).
 
-📍 **Localização:** Nova serrana - Minas Gerais, Brasil  
-🚀 **Foco atual:** Fullstack JS • Projetos de Automação • IA aplicada ao desenvolvimento
-🧭 **Missão:** Criar soluções inteligentes que otimizem o trabalho de desenvolvedores e empresas.
+Tenho experiência prática com tecnologia através da atuação com redes e suporte técnico, além de projetos próprios envolvendo APIs REST, autenticação e integração de sistemas.
+
+Atualmente, estou focado em evoluir como desenvolvedor Full Stack, construindo aplicações reais e aplicando boas práticas como Clean Code, Git e arquitetura de software.
+
+📍 Nova Serrana - MG, Brasil  
+🚀 Foco atual: React • Java • Spring Boot • APIs REST  
+🎯 Objetivo: Conquistar minha primeira oportunidade como desenvolvedor  
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+
+### ⚙️ Backend (em evolução)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 
 ---
 
-### 🧩 Projetos
+## 🧩 Projetos em Destaque
 
-- 🦷 **MedFlow pro** — Saas de automação de comunicação e gestão para clínicas odontológica.  
+### 🔹 Task Manager Full Stack *(em desenvolvimento)*
+Sistema completo de gerenciamento de tarefas com autenticação e integração frontend/backend.
+
+**Stack:**
+- React
+- Java + Spring Boot
+- PostgreSQL
+- API REST
+- JWT Authentication
+
+**Funcionalidades:**
+- Login e cadastro de usuários
+- CRUD de tarefas
+- Marcar como concluída
+- Integração completa entre front e back
+
+🚀 *Em breve com deploy online*
 
 ---
 
+### 🔹 MedFlow Pro
+Sistema de automação para clínicas odontológicas.
 
-### 📊 Estatísticas do GitHub
+💡 Focado em otimizar comunicação e processos internos.
 
-![Mário Vitor GitHub status](https://github-readme-stats.vercel.app/api?username=mariovitorfs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
-![Técnologias utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovitorfs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+👉 *(em breve com deploy online)*
 
+---
 
-<hr>
-
-<div width="100%" display="flex" align="center">
-  <img src='https://www.cometafiber.com.br/assets/img/hero-img.gif' width='350' align="center"> 
-</div>
-
-<hr>
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariovitorfs.mariovitorfs&left_text=Visitantes"  />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariovitorfs&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovitorfs&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-###
+---
 
 ### 🌐 Conecte-se Comigo
 
@@ -66,7 +92,10 @@ Acredito que o código vai além da técnica, é uma extensão da mente criativa
 
 ---
 
-🧭 *“O código é apenas o meio. A verdadeira engenharia está na mente.”*
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariovitorfs.mariovitorfs&left_text=Visitantes" />
+</div>
 
 ---
 
+💡 *“Código bom resolve problemas. Código excelente cria oportunidades.”*
