@@ -16,7 +16,6 @@ Atualmente, estou focado em evoluir como desenvolvedor Full Stack, construindo a
 
 📍 Nova Serrana - MG, Brasil  
 🚀 Foco atual: React • Java • Spring Boot • APIs REST  
-🎯 Objetivo: Conquistar minha primeira oportunidade como desenvolvedor  
 
 ---
 
